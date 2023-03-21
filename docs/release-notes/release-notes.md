@@ -65,3 +65,6 @@ Firebolt might roll out releases in phases. New features and changes may not yet
 ### Resolved issues
 
 * <!--- FIR-20551 —-->Fixed an error `Cannot parse input: expected <END OF LINE>` on ingest of large CSV files.
+
+### Visual explain
+* visual explain in the UI will only support textual view. Other views will be added back in the future.
